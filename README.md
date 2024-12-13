@@ -1,4 +1,4 @@
-# Projeto Lading Page Pets 🐶🐱
+# Projeto Landing Page Pets 🐶🐱
 - Aqui apresento a Lading page do projeto dando continuidade ao repositório anterior.
 
  # Links🔍
